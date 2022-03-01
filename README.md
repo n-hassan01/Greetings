@@ -1,2 +1,2 @@
 # Greetings
- it will prompt name from the users which must be started with a upper case letter
+ it will prompt the name from users which must be started with a upper case letter
